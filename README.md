@@ -12,10 +12,10 @@ This repository is simply a record of solutions that have been approved by the p
 
 Total: 2 of 334
 
-| Status | Number  | Name                      |
-|:--:    |:--:     |--                         |
-| ✅    |1000      |Hello World!               |
-| ✅    |1001      |Extremely Basic            |
-| ✅    |1002      |Area of a Circle           |
-| ✅    |1003      |Simple Sum                 |
-| ✅    |1004      |Simple Product              |
+| Status | Number  | Name                                           |
+|:--:    |:--:     |--                                              |
+| ✅    |1000      |[Hello World!](./1000-hello-world.js)          |
+| ✅    |1001      |[Extremely Basic](./1001-extremely-basic.js)   |
+| ✅    |1002      |[Area of a Circle](./1002-area-of-a-circle.js) |
+| ✅    |1003      |[Simple Sum](./1003-simple-sum.js)             |
+| ✅    |1004      |[Simple Product](./1004-simple-product.js)     |
