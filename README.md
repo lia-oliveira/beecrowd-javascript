@@ -18,4 +18,4 @@ Total: 2 of 334
 | ✅    |1001      |Extremely Basic            |
 | ✅    |1002      |Area of a Circle           |
 | ✅    |1003      |Simple Sum                 |
-| ✅    |1004      |Simple Produc              |
+| ✅    |1004      |Simple Product              |
