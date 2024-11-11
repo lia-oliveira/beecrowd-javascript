@@ -19,3 +19,7 @@ Total: 2 of 334
 | ✅    |1002      |[Area of a Circle](./1002-area-of-a-circle.js) |
 | ✅    |1003      |[Simple Sum](./1003-simple-sum.js)             |
 | ✅    |1004      |[Simple Product](./1004-simple-product.js)     |
+| ✅    |1005      |[Average 1](./1005-average1.js)                |
+| ✅    |1006      |[Average 2](./1006-average2.js)                |
+| ✅    |1007      |[Difference](./1007-difference.js)             |
+| ✅    |1008      |[Salary](./1008-salary.js)                     |
