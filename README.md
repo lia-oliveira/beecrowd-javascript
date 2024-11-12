@@ -23,3 +23,7 @@ Total: 2 of 334
 | ✅    |1006      |[Average 2](./1006-average2.js)                |
 | ✅    |1007      |[Difference](./1007-difference.js)             |
 | ✅    |1008      |[Salary](./1008-salary.js)                     |
+| ✅    |1009      |[Salary](./1009-salary-with-bonus.js)          |
+| ✅    |1010      |[Salary](./1010-simple-calculate.js)           |
+| ✅    |1011      |[Salary](./1011-sphere.js)                     |
+| ✅    |1012      |[Salary](./1012-area.js)                       |
