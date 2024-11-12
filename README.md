@@ -12,7 +12,7 @@ This repository is simply a record of solutions that have been approved by the p
 
 Total: 2 of 334
 
-| Status | Number  | Name                                           |
+| Status | Number  | Title                                          |
 |:--:    |:--:     |--                                              |
 | ✅    |1000      |[Hello World!](./1000-hello-world.js)          |
 | ✅    |1001      |[Extremely Basic](./1001-extremely-basic.js)   |
@@ -23,7 +23,7 @@ Total: 2 of 334
 | ✅    |1006      |[Average 2](./1006-average2.js)                |
 | ✅    |1007      |[Difference](./1007-difference.js)             |
 | ✅    |1008      |[Salary](./1008-salary.js)                     |
-| ✅    |1009      |[Salary](./1009-salary-with-bonus.js)          |
-| ✅    |1010      |[Salary](./1010-simple-calculate.js)           |
-| ✅    |1011      |[Salary](./1011-sphere.js)                     |
-| ✅    |1012      |[Salary](./1012-area.js)                       |
+| ✅    |1009      |[Salary with bonus](./1009-salary-with-bonus.js) |
+| ✅    |1010      |[Simple Calculate](./1010-simple-calculate.js) |
+| ✅    |1011      |[Sphere](./1011-sphere.js)                     |
+| ✅    |1012      |[Area](./1012-area.js)                         |
