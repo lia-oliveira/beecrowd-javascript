@@ -27,3 +27,7 @@ Total: 2 of 334
 | ✅    |1010      |[Simple Calculate](./1010-simple-calculate.js) |
 | ✅    |1011      |[Sphere](./1011-sphere.js)                     |
 | ✅    |1012      |[Area](./1012-area.js)                         |
+| ✅    |1013      |[The greatest](./1013-the-greatest.js)         |
+| ✅    |1014      |[Consumption](./1014-consumption.js)           |
+| ✅    |1015      |[Distance Between Two Points](./1015-distance-between-two-points.js)  |
+| ✅    |1016      |[Distance](./1016-distance.js)                 |
