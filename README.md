@@ -31,3 +31,4 @@ Total: 2 of 334
 | ✅    |1014      |[Consumption](./1014-consumption.js)           |
 | ✅    |1015      |[Distance Between Two Points](./1015-distance-between-two-points.js)  |
 | ✅    |1016      |[Distance](./1016-distance.js)                 |
+| ✅    |1017      |[Fuel Spent](./1017-fuel-spent.js)             |
